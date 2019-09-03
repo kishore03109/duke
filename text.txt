@@ -1,0 +1,27 @@
+T | ✘ go home
+T | ✘ run away
+D | ✘  return book  |  Sunday
+T | ✘ read book
+T | ✘ run away
+T | ✘ run awaw
+T | ✘ run away
+T | ✘ run away
+T | ✘ go school
+T | ✘  
+T | ✘  
+T | ✘ run away
+T | ✘ run 2.4km
+T | ✘ run away
+T | ✘ run away
+T | ✘ run 2.4km
+T | ✘ run 2.4km
+T | ✘ run away
+T | ✘ run awwy
+T | ✘ run 2.4km
+T | ✘ run awawy
+T | ✘ run 2.4
+T | ✘ run awau
+T | ✘ run 2.4km
+T | ✘ run away
+T | ✘ run 2.4km
+T | ✘ nice gets
