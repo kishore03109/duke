@@ -3,7 +3,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
 import java.io.*;
-/*Level 3*/
+/*A-Classes*/
 public class Duke {
 
     public static void main(String[] args) {
