@@ -4,8 +4,10 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.Writer;
 
+/**
+ * @param String item the item to be recorded locally in the user's computer
+ */
 public class Storage {
-
 
 
     public static void main(String item) {

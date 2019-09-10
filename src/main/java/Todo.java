@@ -1,3 +1,7 @@
+/**
+ * @param String descripition of the new item to be intantiated
+ */
+
 public class Todo extends Task {
 
 
