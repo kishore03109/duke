@@ -3,7 +3,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
 import java.io.*;
-/*A-Collections*/
+/*A-TextUiTesting*/
 public class Duke {
 
     public static void main(String[] args) {
